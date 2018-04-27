@@ -12,7 +12,7 @@ s1 = new balls();
 
 function draw() {
 
-  	
+  	noStroke();
  	S.show();
  	S.update();
  	S.direction();
