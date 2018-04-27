@@ -3,7 +3,7 @@ var S1;
 
 function setup() {
 
-createCanvas(800,600);
+createCanvas(window.innerWidth, window.innerHeight);
 background(251);
 S = new balls();
 s1 = new balls();
